@@ -80,16 +80,16 @@ class​ ​Googlepay​:                           
  ​HB.​Enter_your_Pin​(​2000​,​20020) 
   
  ​         
- ​googlepay​=​[{​"name"​:​"Hrithik"​,​"num"​:​9500740108​,​"type"​:​"personal"​,​"transaction"​:​"regular"​},                      
- ​                  {​"name"​:​"Saravana"​,​"num"​:​8825555140​,​"type"​:​"personal"​,​"transaction"​:​"regular"​}, 
- ​                  {​"name"​:​"JK"​,​"num"​:​9600114878​,​"type"​:​"personal"​,​"transaction"​:​"rare"​}, 
- ​                  {​"name"​:​"Aftab"​,​"num"​:​9360763652​,​"type"​:​"personal"​,​"transaction"​:​"never"​}, 
- ​                  {​"name"​:​"Arul"​,​"num"​:​8596266985​,​"type"​:​"personal"​,​"transaction"​:​"rare"​}, 
- ​                  {​"name"​:​"Aarthi"​,​"num"​:​9597916931​,​"type"​:​"personal"​,​"transaction"​:​"rare"​}, 
- ​                  {​"name"​:​"Malini"​,​"num"​:​8056469214​,​"type"​:​"personal"​,​"transaction"​:​"regular"​}, 
- ​                  {​"name"​:​"Jasmin"​,​"num"​:​9962454833​,​"type"​:​"personal"​,​"transaction"​:​"rare"​}, 
- ​                  {​"name"​:​"Swetha"​,​"num"​:​8015341851​,​"type"​:​"personal"​,​"transaction"​:​"rare"​}, 
- ​                  {​"name"​:​"Vishu"​,​"num"​:​7305624091​,​"type"​:​"personal"​,​"transaction"​:​"rare"​}]
+ ​googlepay​=​[{​"name"​:​"Hrithik"​,​"num"​:​9500740108​,​"type"​:​"personal"​,​"trans"​:​"regular"​},                      
+ ​                  {​"name"​:​"Saravana"​,​"num"​:​8825555140​,​"type"​:​"personal"​,​"trans"​:​"regular"​}, 
+ ​                  {​"name"​:​"JK"​,​"num"​:​9600114878​,​"type"​:​"personal"​,​"trans"​:​"rare"​}, 
+ ​                  {​"name"​:​"Aftab"​,​"num"​:​9360763652​,​"type"​:​"personal"​,​"trans"​:​"never"​}, 
+ ​                  {​"name"​:​"Arul"​,​"num"​:​8596266985​,​"type"​:​"personal"​,​"trans"​:​"rare"​}, 
+ ​                  {​"name"​:​"Aarthi"​,​"num"​:​9597916931​,​"type"​:​"personal"​,​"trans"​:​"rare"​}, 
+ ​                  {​"name"​:​"Malini"​,​"num"​:​8056469214​,​"type"​:​"personal"​,​"trans"​:​"regular"​}, 
+ ​                  {​"name"​:​"Jasmin"​,​"num"​:​9962454833​,​"type"​:​"personal"​,​"trans"​:​"rare"​}, 
+ ​                  {​"name"​:​"Swetha"​,​"num"​:​8015341851​,​"type"​:​"personal"​,​"trans"​:​"rare"​}, 
+ ​                  {​"name"​:​"Vishu"​,​"num"​:​7305624091​,​"type"​:​"personal"​,​"trans"​:​"rare"​}]
 
 for j,k in i.items():
     print(f"{j}:{k}")
