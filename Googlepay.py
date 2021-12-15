@@ -85,11 +85,7 @@ class​ ​Googlepay​:                           
  ​                  {​"name"​:​"JK"​,​"num"​:​9600114878​,​"type"​:​"personal"​,​"trans"​:​"rare"​}, 
  ​                  {​"name"​:​"Aftab"​,​"num"​:​9360763652​,​"type"​:​"personal"​,​"trans"​:​"never"​}, 
  ​                  {​"name"​:​"Arul"​,​"num"​:​8596266985​,​"type"​:​"personal"​,​"trans"​:​"rare"​}, 
- ​                  {​"name"​:​"Aarthi"​,​"num"​:​9597916931​,​"type"​:​"personal"​,​"trans"​:​"rare"​}, 
- ​                  {​"name"​:​"Malini"​,​"num"​:​8056469214​,​"type"​:​"personal"​,​"trans"​:​"regular"​}, 
- ​                  {​"name"​:​"Jasmin"​,​"num"​:​9962454833​,​"type"​:​"personal"​,​"trans"​:​"rare"​}, 
- ​                  {​"name"​:​"Swetha"​,​"num"​:​8015341851​,​"type"​:​"personal"​,​"trans"​:​"rare"​}, 
- ​                  {​"name"​:​"Vishu"​,​"num"​:​7305624091​,​"type"​:​"personal"​,​"trans"​:​"rare"​}]
+ ​                  {​"name"​:​"Aarthi"​,​"num"​:​9597916931​,​"type"​:​"personal"​,​"trans"​:​"rare"}]
 
 for j,k in i.items():
     print(f"{j}:{k}")
